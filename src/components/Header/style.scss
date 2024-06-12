@@ -1,0 +1,14 @@
+.header {
+    align-items: center;
+    background-color: #666;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem;
+    width: 100%;
+
+    > div {
+        background-color: orangered;
+    }
+}
